@@ -12,9 +12,16 @@ document.getElementById('play').addEventListener('click', function () {
     //declares the winner
     if (scorePlayer > scoreComputer) {
         alert('Hai vinto!!!')
+        player.style.backgroundColor = "lightgreen"
+        computer.style.backgroundColor = "red"
+
     }else if (scorePlayer < scoreComputer){
         alert('Hai perso !!')
+        player.style.backgroundColor = "red"
+        computer.style.backgroundColor = "lightgreen"
     }else{
         alert('Abbiamo un pareggio')
+        player.style.backgroundColor = "lightblue"
+        computer.style.backgroundColor = "lightblue"
     }
 })
