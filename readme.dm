@@ -20,4 +20,10 @@ inseriamo una var per recuperare l'email inserita dall'id input html
 Step 4 
 inseriamo un ciclo for per controllare se l'email inserita corrisponde
 
+Step 5
+aggiungiamo if and else per accettare o rifiutare l-email
+
+Step 6 Bonus
+Aggiungiamo un pulsante di verifica
+
 
