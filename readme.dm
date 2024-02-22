@@ -15,5 +15,9 @@ Step 2
 Inseriamo una var per la verifca dell'email
 
 Step 3
+inseriamo una var per recuperare l'email inserita dall'id input html
+
+Step 4 
+inseriamo un ciclo for per controllare se l'email inserita corrisponde
 
 
