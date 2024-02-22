@@ -3,3 +3,6 @@ Generare un numero random da 1 a 6, sia per il giocatore sia per il computer. St
 
 Step 1
 Creo l'eventListner per il button che servira' a far avviare il gioco
+
+Step 2
+Creo due variabili per il giocatore e il computer che danno un numero casuale 
