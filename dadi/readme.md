@@ -6,3 +6,6 @@ Creo l'eventListner per il button che servira' a far avviare il gioco
 
 Step 2
 Creo due variabili per il giocatore e il computer che danno un numero casuale 
+
+Step 3
+Chiedo alla console di visualizzare i numeri generati 
