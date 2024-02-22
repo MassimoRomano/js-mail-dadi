@@ -9,3 +9,6 @@ Creo due variabili per il giocatore e il computer che danno un numero casuale
 
 Step 3
 Chiedo alla console di visualizzare i numeri generati 
+
+Step 4 
+Creo un if e un else per dichiarare chi dei due ha vinto
